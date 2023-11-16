@@ -156,6 +156,8 @@ body {
   &__img {
     width: 100%;
     transition: transform 0.3s ease;
+    border-radius: 20px;
+    border: 5px solid rgba(255, 255, 255, 0.8);
 
     &--gallery {
       width: 130px;
